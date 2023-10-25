@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignUp App</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="age">Age</string>
+    <string name="email">Email Address</string>
+    <string name="submit_btn">Submit</string>
+    <string name="view_btn">View Last Submitted Data</string>
+</resources>
